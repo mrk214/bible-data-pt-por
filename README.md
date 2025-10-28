@@ -8,13 +8,13 @@
 
 | abbr | name | books | file |
 | --- | --- | :---: | --- |
-| `A21` | Biblia Almeida Século 21 | **66** | [json](https://mrk214.github.io/snapshots/pt___por___por/A21.json) |
-| `ARA` | Almeida Revista e Atualizada | **66** | [json](https://mrk214.github.io/snapshots/pt___por___por/ARA.json) |
-| `ARC` | Almeida Revista e Corrigida | **66** | [json](https://mrk214.github.io/snapshots/pt___por___por/ARC.json) |
-| `NAA` | Nova Almeida Atualizada | **66** | [json](https://mrk214.github.io/snapshots/pt___por___por/NAA.json) |
-| `NTLH` | Nova Tradução na Linguagem de Hoje | **66** | [json](https://mrk214.github.io/snapshots/pt___por___por/NTLH.json) |
-| `NVI` | Nova Versão Internacional 2011 | **66** | [json](https://mrk214.github.io/snapshots/pt___por___por/NVI.json) |
-| `ARC` | Almeida Revista e Corrigida (Portugal) | **66** | [json](https://mrk214.github.io/snapshots/pt___por___por_pt/ARC.json) |
+| `A21` | Biblia Almeida Século 21 | **66** | [json](https://mrk214.github.io/snapshots/pt___por___por/A21_vid_2645.json) |
+| `ARA` | Almeida Revista e Atualizada | **66** | [json](https://mrk214.github.io/snapshots/pt___por___por/ARA_vid_1608.json) |
+| `ARC` | Almeida Revista e Corrigida | **66** | [json](https://mrk214.github.io/snapshots/pt___por___por/ARC_vid_212.json) |
+| `NAA` | Nova Almeida Atualizada | **66** | [json](https://mrk214.github.io/snapshots/pt___por___por/NAA_vid_1840.json) |
+| `NTLH` | Nova Tradução na Linguagem de Hoje | **66** | [json](https://mrk214.github.io/snapshots/pt___por___por/NTLH_vid_211.json) |
+| `NVI` | Nova Versão Internacional 2011 | **66** | [json](https://mrk214.github.io/snapshots/pt___por___por/NVI_vid_4360.json) |
+| `ARC` | Almeida Revista e Corrigida (Portugal) | **66** | [json](https://mrk214.github.io/snapshots/pt___por___por_pt/ARC_vid_215.json) |
 
 ---
 
@@ -22,7 +22,7 @@
 
 ### Biblia Almeida Século 21
 
-**66** books - [Source JSON file with **chapter_html** field](https://mrk214.github.io/bible-data-pt-por/data/pt___por___por/A21.json).
+**66** books - [Source JSON file with **chapter_html** field](https://mrk214.github.io/bible-data-pt-por/data/pt___por___por/A21_vid_2645.json).
 
 | usfm | name |
 | ---------- | ---------- |
@@ -99,7 +99,7 @@
 
 ### Almeida Revista e Atualizada
 
-**66** books - [Source JSON file with **chapter_html** field](https://mrk214.github.io/bible-data-pt-por/data/pt___por___por/ARA.json).
+**66** books - [Source JSON file with **chapter_html** field](https://mrk214.github.io/bible-data-pt-por/data/pt___por___por/ARA_vid_1608.json).
 
 | usfm | name |
 | ---------- | ---------- |
@@ -176,7 +176,7 @@
 
 ### Almeida Revista e Corrigida
 
-**66** books - [Source JSON file with **chapter_html** field](https://mrk214.github.io/bible-data-pt-por/data/pt___por___por/ARC.json).
+**66** books - [Source JSON file with **chapter_html** field](https://mrk214.github.io/bible-data-pt-por/data/pt___por___por/ARC_vid_212.json).
 
 | usfm | name |
 | ---------- | ---------- |
@@ -253,7 +253,7 @@
 
 ### Nova Almeida Atualizada
 
-**66** books - [Source JSON file with **chapter_html** field](https://mrk214.github.io/bible-data-pt-por/data/pt___por___por/NAA.json).
+**66** books - [Source JSON file with **chapter_html** field](https://mrk214.github.io/bible-data-pt-por/data/pt___por___por/NAA_vid_1840.json).
 
 | usfm | name |
 | ---------- | ---------- |
@@ -330,7 +330,7 @@
 
 ### Nova Tradução na Linguagem de Hoje
 
-**66** books - [Source JSON file with **chapter_html** field](https://mrk214.github.io/bible-data-pt-por/data/pt___por___por/NTLH.json).
+**66** books - [Source JSON file with **chapter_html** field](https://mrk214.github.io/bible-data-pt-por/data/pt___por___por/NTLH_vid_211.json).
 
 | usfm | name |
 | ---------- | ---------- |
@@ -407,7 +407,7 @@
 
 ### Nova Versão Internacional 2011
 
-**66** books - [Source JSON file with **chapter_html** field](https://mrk214.github.io/bible-data-pt-por/data/pt___por___por/NVI.json).
+**66** books - [Source JSON file with **chapter_html** field](https://mrk214.github.io/bible-data-pt-por/data/pt___por___por/NVI_vid_4360.json).
 
 | usfm | name |
 | ---------- | ---------- |
@@ -484,7 +484,7 @@
 
 ### Almeida Revista e Corrigida (Portugal)
 
-**66** books - [Source JSON file with **chapter_html** field](https://mrk214.github.io/bible-data-pt-por/data/pt___por___por_pt/ARC.json).
+**66** books - [Source JSON file with **chapter_html** field](https://mrk214.github.io/bible-data-pt-por/data/pt___por___por_pt/ARC_vid_215.json).
 
 | usfm | name |
 | ---------- | ---------- |
