@@ -158,7 +158,7 @@ vosso 528
 outro 522
 caminho 519
 dizendo 519
-anos 517
+anos 518
 mil 510
 desde 504
 tem 504
@@ -992,6 +992,7 @@ líder 64
 mandamento 64
 maravilhas 64
 nova 64
+oito 64
 preceitos 64
 seiscentos 64
 serem 64
@@ -1004,7 +1005,6 @@ estendeu 63
 holocaustos 63
 jovem 63
 levado 63
-oito 63
 razão 63
 retidão 63
 rico 63
@@ -22075,7 +22075,6 @@ oferecias 1
 oferecidas 1
 ofertamos 1
 ofni 1
-oitoanos 1
 oleiros 1
 olfato 1
 olharem 1
