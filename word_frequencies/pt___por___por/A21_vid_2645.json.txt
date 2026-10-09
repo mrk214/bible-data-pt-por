@@ -256,7 +256,7 @@ antes 297
 salomão 296
 vinte 296
 campo 295
-isto 295
+isto 294
 estes 293
 naquele 293
 alguma 290
@@ -319,10 +319,10 @@ for 246
 coisa 244
 mortos 244
 pés 244
+viu 244
 essa 243
 esse 243
 saiu 243
-viu 243
 discípulos 242
 durante 242
 redor 242
@@ -436,9 +436,9 @@ testemunho 166
 alto 165
 cinquenta 165
 la 165
+sião 165
 pedro 164
 sacrifícios 164
-sião 164
 ter 164
 acampamento 163
 levanta 163
@@ -467,12 +467,12 @@ quarenta 157
 vezes 157
 norte 156
 tomou 156
+visto 155
 bronze 154
 conhecimento 154
 guarda 154
 ímpios 154
 salvação 154
-visto 154
 entregou 153
 escrito 153
 ficaram 153
@@ -495,22 +495,22 @@ tenha 150
 fala 148
 ídolos 147
 terá 147
+fiz 146
 manassés 146
 nação 146
 samuel 146
 seguinte 146
-fiz 145
 numa 145
 poderoso 145
 habitantes 144
 região 144
 cereais 143
+tornou 143
 joão 142
 próprio 142
 qualquer 142
 roupas 142
 temos 142
-tornou 142
 dentro 141
 entendimento 141
 língua 141
@@ -545,9 +545,9 @@ assíria 131
 gileade 131
 responderam 131
 somos 131
+vê 131
 dize 130
 sendo 130
-vê 130
 beber 129
 chegaram 129
 cima 129
@@ -1053,6 +1053,7 @@ meses 60
 naqueles 60
 nesta 60
 pacíficas 60
+passaram 60
 rebanhos 60
 seca 60
 temas 60
@@ -1064,7 +1065,6 @@ falei 59
 forças 59
 nobres 59
 ofereceu 59
-passaram 59
 pilatos 59
 quinto 59
 ribeiro 59
@@ -1125,6 +1125,7 @@ olha 55
 possa 55
 quatrocentos 55
 rainha 55
+salva 55
 testemunha 55
 tivesse 55
 trezentos 55
@@ -1147,7 +1148,6 @@ labão 54
 levantará 54
 maus 54
 poço 54
-salva 54
 satanás 54
 segunda 54
 algo 53
@@ -1263,6 +1263,7 @@ feita 48
 fomos 48
 gibeá 48
 jurou 48
+lançou 48
 nelas 48
 objeto 48
 ordenei 48
@@ -1292,7 +1293,6 @@ fonte 47
 iam 47
 irei 47
 júbilo 47
-lançou 47
 quereis 47
 queres 47
 tolo 47
@@ -1340,6 +1340,7 @@ ressurreição 45
 sê 45
 seguida 45
 simei 45
+tereis 45
 teria 45
 últimos 45
 videira 45
@@ -1371,7 +1372,6 @@ reuniram 44
 seguiram 44
 siclo 44
 soube 44
-tereis 44
 terror 44
 tirado 44
 torre 44
@@ -2209,6 +2209,7 @@ filhotes 25
 fineias 25
 habitaram 25
 habitou 25
+hazael 25
 hebreus 25
 humano 25
 íntimo 25
@@ -2283,7 +2284,6 @@ fores 24
 fugir 24
 glorificado 24
 harpas 24
-hazael 24
 heteu 24
 inclinou 24
 inúteis 24
@@ -2337,6 +2337,7 @@ bate 23
 brasas 23
 breve 23
 cães 23
+caim 23
 carmelo 23
 carvalho 23
 coma 23
@@ -2414,7 +2415,6 @@ amanhecer 22
 áquis 22
 batizados 22
 buscai 22
-caim 22
 centurião 22
 cisterna 22
 colina 22
@@ -3203,6 +3203,7 @@ maná 16
 margem 16
 marinhos 16
 matanias 16
+mefibosete 16
 mesas 16
 mical 16
 modelo 16
@@ -3363,7 +3364,6 @@ lutou 15
 malquias 15
 margens 15
 matado 15
-mefibosete 15
 menstruação 15
 mercadorias 15
 mesaque 15
@@ -3913,6 +3913,7 @@ astarote 12
 atacará 12
 baixada 12
 barrabás 12
+barzilai 12
 belas 12
 belo 12
 betânia 12
@@ -4168,7 +4169,6 @@ atento 11
 auxiliar 11
 baaná 11
 bandeira 11
-barzilai 11
 bastante 11
 beor 11
 berequias 11
@@ -4871,6 +4871,7 @@ cargos 9
 carruagem 9
 carruagens 9
 castigue 9
+celebrarás 9
 celestiais 9
 chamá 9
 chegam 9
@@ -5063,6 +5064,8 @@ paixões 9
 palmeira 9
 partida 9
 pás 9
+passadas 9
+passai 9
 passarei 9
 passas 9
 passem 9
@@ -5283,7 +5286,6 @@ carroça 8
 casaram 8
 causando 8
 ceifeiros 8
-celebrarás 8
 cervo 8
 chegada 8
 chegai 8
@@ -5303,6 +5305,7 @@ cometem 8
 comia 8
 comidos 8
 comparável 8
+completou 8
 comprador 8
 comprados 8
 compreendeis 8
@@ -5541,8 +5544,6 @@ pacífico 8
 pacto 8
 padeiro 8
 parado 8
-passadas 8
-passai 8
 passarinhos 8
 pedaías 8
 pediam 8
@@ -5736,7 +5737,6 @@ ainoã 7
 alegrarei 7
 alivia 7
 alívio 7
-alva 7
 amaldiçoado 7
 amanheceu 7
 amará 7
@@ -5819,7 +5819,6 @@ comerdes 7
 cometestes 7
 compadeceu 7
 comparecer 7
-completou 7
 comprei 7
 concordaram 7
 condenar 7
@@ -6311,7 +6310,6 @@ agarrou 6
 agido 6
 agitada 6
 aguardamos 6
-aim 6
 aiô 6
 alcançado 6
 alcançarão 6
@@ -6321,6 +6319,7 @@ alegrei 6
 alerta 6
 alexandre 6
 aliados 6
+alva 6
 amaldiçoou 6
 amamos 6
 amardes 6
@@ -6402,7 +6401,6 @@ buscá 6
 buscais 6
 buscando 6
 busco 6
-c 6
 caiam 6
 cairás 6
 calados 6
@@ -7154,6 +7152,7 @@ agrupamentos 5
 agulha 5
 aiezer 5
 ailude 5
+aim 5
 airá 5
 ajoelhando 5
 alcance 5
@@ -8518,6 +8517,7 @@ consumiram 4
 contaminarão 4
 contamine 4
 contando 4
+contareis 4
 contasse 4
 conte 4
 contei 4
@@ -9512,6 +9512,7 @@ tentavam 4
 teríamos 4
 terias 4
 teríeis 4
+terminado 4
 terremotos 4
 tesoureiros 4
 testamento 4
@@ -9847,7 +9848,6 @@ aspergir 3
 aspersão 3
 asquenaz 3
 asriel 3
-assaram 3
 assassinado 3
 assentarão 3
 assentarei 3
@@ -9912,6 +9912,7 @@ banhar 3
 baquebuquias 3
 barquinho 3
 batalhão 3
+batei 3
 baterão 3
 batizar 3
 batizará 3
@@ -9997,6 +9998,7 @@ chaga 3
 chamasse 3
 chameis 3
 chicote 3
+chorarei 3
 choras 3
 choraste 3
 chorastes 3
@@ -10011,6 +10013,7 @@ clamamos 3
 clamem 3
 clara 3
 clãs 3
+cláudio 3
 cobertas 3
 cobiçam 3
 cobices 3
@@ -10107,7 +10110,6 @@ contam 3
 contaminados 3
 contaminaste 3
 contardes 3
-contareis 3
 contavam 3
 contê 3
 conteis 3
@@ -10998,7 +11000,6 @@ ousadia 3
 ouvidas 3
 ouvintes 3
 ovo 3
-p 3
 pacientes 3
 pacificamente 3
 pagas 3
@@ -11499,7 +11500,6 @@ sustentai 3
 sustentará 3
 sustentava 3
 sustentavam 3
-t 3
 tamargueira 3
 tambores 3
 tamborim 3
@@ -11516,7 +11516,6 @@ tememos 3
 terços 3
 termina 3
 terminada 3
-terminado 3
 terrena 3
 testá 3
 testemunharei 3
@@ -11617,7 +11616,6 @@ usas 3
 useis 3
 utensílio 3
 uzal 3
-v 3
 vacilantes 3
 vadios 3
 vagueando 3
@@ -12109,9 +12107,8 @@ asno 2
 aspergida 2
 aspergido 2
 aspergindo 2
-assadas 2
-assai 2
 assar 2
+assaram 2
 assarão 2
 assarás 2
 assassinato 2
@@ -12206,7 +12203,6 @@ azeitado 2
 azeitona 2
 azmom 2
 azor 2
-b 2
 babel 2
 babilônio 2
 baios 2
@@ -12229,7 +12225,6 @@ bastariam 2
 bastasse 2
 bastões 2
 batalhava 2
-batei 2
 batente 2
 bateste 2
 batizam 2
@@ -12416,7 +12411,6 @@ cheira 2
 chorais 2
 chorará 2
 chorarás 2
-chorarei 2
 chores 2
 cicatriz 2
 ciclo 2
@@ -12439,7 +12433,6 @@ claras 2
 clarear 2
 clareza 2
 claridade 2
-cláudio 2
 clemência 2
 clientes 2
 coalhada 2
@@ -13642,7 +13635,6 @@ guiava 2
 guie 2
 guiem 2
 gur 2
-h 2
 habacuque 2
 habitamos 2
 habitarás 2
@@ -15017,7 +15009,6 @@ rubi 2
 rubis 2
 rufo 2
 rugindo 2
-s 2
 saafe 2
 saalbonita 2
 sabactani 2
@@ -16227,7 +16218,6 @@ ancas 1
 ancestral 1
 âncora 1
 ancoradouro 1
-ançou 1
 andarias 1
 andasse 1
 andásseis 1
@@ -16656,7 +16646,6 @@ arumá 1
 arvadeu 1
 arvadeus 1
 arza 1
-arzilai 1
 asareel 1
 asarela 1
 asarias 1
@@ -16680,7 +16669,9 @@ aspirações 1
 asqueloneu 1
 asrielitas 1
 assa 1
+assadas 1
 assadeiras 1
+assai 1
 assalte 1
 assalto 1
 assaltos 1
@@ -16782,7 +16773,6 @@ atarim 1
 ateai 1
 atearão 1
 atearemos 1
-atei 1
 ateiem 1
 atemoriza 1
 atemorizada 1
@@ -16932,7 +16922,6 @@ avistou 1
 aviva 1
 avô 1
 azã 1
-azael 1
 azanias 1
 azareel 1
 azaz 1
@@ -19060,7 +19049,6 @@ duvidaram 1
 duvidardes 1
 duvidaste 1
 duvides 1
-ê 1
 ébano 1
 ebrom 1
 ebzai 1
@@ -19092,7 +19080,6 @@ efeitos 1
 efes 1
 efetua 1
 efetuar 1
-efibosete 1
 eficácia 1
 eficientes 1
 éfode 1
@@ -19110,7 +19097,6 @@ elda 1
 eldá 1
 eleadá 1
 eleade 1
-elebrarás 1
 elefe 1
 elegância 1
 elegeram 1
@@ -19512,7 +19498,6 @@ equipamentos 1
 equivalente 1
 erã 1
 eranitas 1
-ereis 1
 erguê 1
 erguemos 1
 erguerem 1
@@ -19521,7 +19506,6 @@ erguidas 1
 erguido 1
 erguidos 1
 eritas 1
-erminado 1
 erra 1
 errados 1
 errais 1
@@ -19975,7 +19959,6 @@ exultes 1
 ezra 1
 ezraíta 1
 ezri 1
-f 1
 fabrica 1
 fabricado 1
 fabricam 1
@@ -20429,6 +20412,7 @@ guiarão 1
 guiasse 1
 gulosos 1
 gunitas 1
+h 1
 ha 1
 haaralote 1
 haastari 1
@@ -20572,7 +20556,6 @@ honrem 1
 honremos 1
 honro 1
 horão 1
-horarei 1
 horem 1
 horeu 1
 horrendos 1
@@ -20611,7 +20594,6 @@ hurai 1
 huri 1
 husá 1
 huzote 1
-ião 1
 ibneias 1
 ibnijas 1
 ibri 1
@@ -21043,8 +21025,6 @@ itofel 1
 itra 1
 itritas 1
 itureia 1
-iu 1
-iz 1
 izlias 1
 izri 1
 jaã 1
@@ -21206,7 +21186,6 @@ justificaremos 1
 justificaria 1
 justifico 1
 justifiquem 1
-l 1
 laade 1
 laamás 1
 labã 1
@@ -21266,7 +21245,6 @@ latim 1
 latir 1
 latirá 1
 latrina 1
-láudio 1
 lavá 1
 lavagem 1
 lavagens 1
@@ -21438,7 +21416,6 @@ lutem 1
 luxuosas 1
 luxuosos 1
 luzente 1
-m 1
 maacatitas 1
 maadai 1
 maai 1
@@ -22087,13 +22064,11 @@ olival 1
 omitas 1
 omitir 1
 omitis 1
-ompletou 1
 onda 1
 ondulados 1
 ondule 1
 ônica 1
 onipotente 1
-ontareis 1
 opera 1
 operado 1
 operam 1
@@ -22161,7 +22136,6 @@ ornamentais 1
 ornamentos 1
 ornaste 1
 ornato 1
-ornou 1
 oro 1
 otni 1
 otniel 1
